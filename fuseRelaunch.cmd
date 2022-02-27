@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "D:/205_HW/HW_2/Boolean_Function_Data_Flow_tb_isim_beh.exe" -prj "D:/205_HW/HW_2/Boolean_Function_Data_Flow_tb_beh.prj" "work.Boolean_Function_Data_Flow_tb" 

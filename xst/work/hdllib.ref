@@ -1,0 +1,6 @@
+AR boolean_function_case_statement behavioral D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd sub00/vhpl03 1637109700
+AR boolean_function_data_flow dataflow D:/205_HW/HW_2/Boolean_Function_Data_Flow.vhd sub00/vhpl05 1637109729
+AR or_gate behavioral D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd sub00/vhpl01 1636562821
+EN boolean_function_data_flow NULL D:/205_HW/HW_2/Boolean_Function_Data_Flow.vhd sub00/vhpl04 1637109728
+EN or_gate NULL D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd sub00/vhpl00 1636560711
+EN boolean_function_case_statement NULL D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd sub00/vhpl02 1637109699

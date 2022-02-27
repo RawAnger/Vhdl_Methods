@@ -1,0 +1,14 @@
+V3 6
+FL D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd 2021/11/15.03:53:17 P.20131013
+EN work/Boolean_Function_Case_Statement 1637109699 \
+      FL D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd \
+      PB ieee/std_logic_1164 1381692176
+AR work/Boolean_Function_Case_Statement/Behavioral 1637109700 \
+      FL D:/205_HW/HW_2/Boolean_Function_Case_Statement.vhd \
+      EN work/Boolean_Function_Case_Statement 1637109699
+FL D:/205_HW/HW_2/Boolean_Function_Data_Flow.vhd 2021/11/12.03:35:22 P.20131013
+EN work/Boolean_Function_Data_Flow 1637109728 \
+      FL D:/205_HW/HW_2/Boolean_Function_Data_Flow.vhd PB ieee/std_logic_1164 1381692176
+AR work/Boolean_Function_Data_Flow/dataflow 1637109729 \
+      FL D:/205_HW/HW_2/Boolean_Function_Data_Flow.vhd \
+      EN work/Boolean_Function_Data_Flow 1637109728

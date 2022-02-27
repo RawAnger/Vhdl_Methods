@@ -1,0 +1,29 @@
+Command line:
+   Boolean_Function_Data_Flow_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  54709
+
+Wed Nov 17 03:43:15 2021
+
+
+ Elaboration Time: 0.078125 sec
+
+ Current Memory Usage: 5150.61 Meg
+
+ Total Signals          : 14
+ Total Nets             : 7
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 4
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+Total Line Count : 84
+
+ Total Simulation Time: 0.109375 sec
+
+ Current Memory Usage: 5150.61 Meg
+
+Wed Nov 17 03:43:39 2021
+

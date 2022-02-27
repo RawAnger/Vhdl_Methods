@@ -1,0 +1,49 @@
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 Boolean_Function_Case_Statement.ngc Boolean_Function_Case_Statement.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ngd Boolean_Function_Case_Statement.pcf 
+par -w -intstyle ise -ol high -t 1 Boolean_Function_Case_Statement_map.ncd Boolean_Function_Case_Statement.ncd Boolean_Function_Case_Statement.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml Boolean_Function_Case_Statement.twx Boolean_Function_Case_Statement.ncd -o Boolean_Function_Case_Statement.twr Boolean_Function_Case_Statement.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.xst" -ofn "D:/205_HW/HW_2/Boolean_Function_Case_Statement.syr" 

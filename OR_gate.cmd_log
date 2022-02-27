@@ -1,0 +1,42 @@
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 OR_gate.ngc OR_gate.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o OR_gate_map.ncd OR_gate.ngd OR_gate.pcf 
+par -w -intstyle ise -ol high -t 1 OR_gate_map.ncd OR_gate.ncd OR_gate.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml OR_gate.twx OR_gate.ncd -o OR_gate.twr OR_gate.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 OR_gate.ngc OR_gate.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o OR_gate_map.ncd OR_gate.ngd OR_gate.pcf 
+par -w -intstyle ise -ol high -t 1 OR_gate_map.ncd OR_gate.ncd OR_gate.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml OR_gate.twx OR_gate.ncd -o OR_gate.twr OR_gate.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 OR_gate.ngc OR_gate.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o OR_gate_map.ncd OR_gate.ngd OR_gate.pcf 
+par -w -intstyle ise -ol high -t 1 OR_gate_map.ncd OR_gate.ncd OR_gate.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml OR_gate.twx OR_gate.ncd -o OR_gate.twr OR_gate.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 OR_gate.ngc OR_gate.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o OR_gate_map.ncd OR_gate.ngd OR_gate.pcf 
+par -w -intstyle ise -ol high -t 1 OR_gate_map.ncd OR_gate.ncd OR_gate.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml OR_gate.twx OR_gate.ncd -o OR_gate.twr OR_gate.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+ngdbuild -intstyle ise -dd _ngo -nt timestamp -i -p xc3s500e-fg320-4 OR_gate.ngc OR_gate.ngd  
+map -intstyle ise -p xc3s500e-fg320-4 -cm area -ir off -pr off -c 100 -o OR_gate_map.ncd OR_gate.ngd OR_gate.pcf 
+par -w -intstyle ise -ol high -t 1 OR_gate_map.ncd OR_gate.ncd OR_gate.pcf 
+trce -intstyle ise -v 3 -s 4 -n 3 -fastpaths -xml OR_gate.twx OR_gate.ncd -o OR_gate.twr OR_gate.pcf 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 
+xst -intstyle ise -ifn "D:/205_HW/HW_2/OR_gate.xst" -ofn "D:/205_HW/HW_2/OR_gate.syr" 

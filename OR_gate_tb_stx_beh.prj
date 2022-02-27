@@ -1,0 +1,4 @@
+vhdl isim_temp "Boolean_Function_Case_Statement.vhd"
+vhdl isim_temp "Boolean_Function_Case_Statement_tb.vhd"
+vhdl isim_temp "Boolean_Function_Data_Flow_tb.vhd"
+vhdl isim_temp "Boolean_Function_Data_Flow.vhd"

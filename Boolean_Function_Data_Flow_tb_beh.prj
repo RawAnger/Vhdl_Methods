@@ -1,0 +1,2 @@
+vhdl work "Boolean_Function_Data_Flow.vhd"
+vhdl work "Boolean_Function_Data_Flow_tb.vhd"

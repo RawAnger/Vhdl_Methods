@@ -1,0 +1,30 @@
+Command line:
+   Boolean_Function_Case_Statement_tb_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  63665
+
+Mon Nov 15 03:35:26 2021
+
+
+ Elaboration Time: 0.046875 sec
+
+ Current Memory Usage: 5150.01 Meg
+
+ Total Signals          : 14
+ Total Nets             : 7
+ Total Signal Drivers   : 7
+ Total Blocks           : 3
+ Total Primitive Blocks : 2
+ Total Processes        : 2
+ Total Traceable Variables  : 8
+ Total Scalar Nets and Variables : 367
+Total Line Count : 133
+Total Line Count : 133
+
+ Total Simulation Time: 0.171875 sec
+
+ Current Memory Usage: 4992.72 Meg
+
+Mon Nov 15 03:48:20 2021
+
